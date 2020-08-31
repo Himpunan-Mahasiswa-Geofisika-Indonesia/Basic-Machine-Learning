@@ -11,6 +11,5 @@ TTD
 
 
 
-
 Divisi Riset dan Inovasi
 #ristek.hmgi@gmail.com
