@@ -7,9 +7,10 @@ Dan juga dibuka forum pada kolom "Issues" jika ingin bertanya dan memberikan sar
 Diharapkan juga dapat menyumbangkan kodingnya untuk pembelajaran bagi kita semua
 
 
-TTD Penanggung Jawab
+TTD
+
+
 
 
 Divisi Riset dan Inovasi
-
 #ristek.hmgi@gmail.com
