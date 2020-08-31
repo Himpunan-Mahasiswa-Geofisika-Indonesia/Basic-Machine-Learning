@@ -11,4 +11,4 @@ TTD Penanggung Jawab
 
 
 Divisi Riset dan Inovasi
-PIC: ristek.hmgi@gmail.com
+#ristek.hmgi@gmail.com
