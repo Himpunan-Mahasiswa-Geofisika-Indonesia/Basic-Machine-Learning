@@ -6,6 +6,9 @@ Dan juga dibuka forum pada kolom "Issues" jika ingin bertanya dan memberikan sar
 
 Diharapkan juga dapat menyumbangkan kodingnya untuk pembelajaran bagi kita semua
 
+List branch:
+1. Basic Python
+2. Jupyter Notebook
 
 TTD
 
